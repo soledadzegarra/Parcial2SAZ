@@ -1,0 +1,12 @@
+G:\PROGRAMACION\SOLE LAB\Parcial2SAZ\Parcial2SAZ\CadParcial2SAZ\bin\Debug\CadParcial2SAZ.dll.config
+G:\PROGRAMACION\SOLE LAB\Parcial2SAZ\Parcial2SAZ\CadParcial2SAZ\bin\Debug\CadParcial2SAZ.dll
+G:\PROGRAMACION\SOLE LAB\Parcial2SAZ\Parcial2SAZ\CadParcial2SAZ\bin\Debug\CadParcial2SAZ.pdb
+G:\PROGRAMACION\SOLE LAB\Parcial2SAZ\Parcial2SAZ\CadParcial2SAZ\bin\Debug\EntityFramework.dll
+G:\PROGRAMACION\SOLE LAB\Parcial2SAZ\Parcial2SAZ\CadParcial2SAZ\bin\Debug\EntityFramework.SqlServer.dll
+G:\PROGRAMACION\SOLE LAB\Parcial2SAZ\Parcial2SAZ\CadParcial2SAZ\bin\Debug\EntityFramework.xml
+G:\PROGRAMACION\SOLE LAB\Parcial2SAZ\Parcial2SAZ\CadParcial2SAZ\bin\Debug\EntityFramework.SqlServer.xml
+G:\PROGRAMACION\SOLE LAB\Parcial2SAZ\Parcial2SAZ\CadParcial2SAZ\obj\Debug\CadParcial2SAZ.csproj.AssemblyReference.cache
+G:\PROGRAMACION\SOLE LAB\Parcial2SAZ\Parcial2SAZ\CadParcial2SAZ\obj\Debug\CadParcial2SAZ.csproj.CoreCompileInputs.cache
+G:\PROGRAMACION\SOLE LAB\Parcial2SAZ\Parcial2SAZ\CadParcial2SAZ\obj\Debug\CadParci.DC53E070.Up2Date
+G:\PROGRAMACION\SOLE LAB\Parcial2SAZ\Parcial2SAZ\CadParcial2SAZ\obj\Debug\CadParcial2SAZ.dll
+G:\PROGRAMACION\SOLE LAB\Parcial2SAZ\Parcial2SAZ\CadParcial2SAZ\obj\Debug\CadParcial2SAZ.pdb
