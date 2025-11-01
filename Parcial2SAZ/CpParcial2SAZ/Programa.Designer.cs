@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmPrograma));
             this.erpTitulo = new System.Windows.Forms.ErrorProvider(this.components);
             this.erpDuracion = new System.Windows.Forms.ErrorProvider(this.components);
             this.erpDescripcion = new System.Windows.Forms.ErrorProvider(this.components);
@@ -111,6 +110,7 @@
             this.gbxDatos.Controls.Add(this.lblCanal);
             this.gbxDatos.Controls.Add(this.lblDescripcion);
             this.gbxDatos.Controls.Add(this.lblTitulo);
+            this.gbxDatos.ForeColor = System.Drawing.Color.Black;
             this.gbxDatos.Location = new System.Drawing.Point(32, 418);
             this.gbxDatos.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.gbxDatos.Name = "gbxDatos";
@@ -123,7 +123,7 @@
             // dtpFechaEstreno
             // 
             this.dtpFechaEstreno.Location = new System.Drawing.Point(508, 47);
-            this.dtpFechaEstreno.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dtpFechaEstreno.Margin = new System.Windows.Forms.Padding(4);
             this.dtpFechaEstreno.Name = "dtpFechaEstreno";
             this.dtpFechaEstreno.Size = new System.Drawing.Size(265, 22);
             this.dtpFechaEstreno.TabIndex = 18;
@@ -150,6 +150,7 @@
             // lblProductor
             // 
             this.lblProductor.AutoSize = true;
+            this.lblProductor.ForeColor = System.Drawing.Color.Black;
             this.lblProductor.Location = new System.Drawing.Point(396, 20);
             this.lblProductor.Name = "lblProductor";
             this.lblProductor.Size = new System.Drawing.Size(68, 16);
@@ -167,7 +168,7 @@
             // 
             // txtDescripcion
             // 
-            this.txtDescripcion.Location = new System.Drawing.Point(123, 44);
+            this.txtDescripcion.Location = new System.Drawing.Point(109, 49);
             this.txtDescripcion.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtDescripcion.MaxLength = 200;
             this.txtDescripcion.Multiline = true;
@@ -266,6 +267,7 @@
             // gbxListado
             // 
             this.gbxListado.Controls.Add(this.dgvLista);
+            this.gbxListado.ForeColor = System.Drawing.Color.Black;
             this.gbxListado.Location = new System.Drawing.Point(32, 78);
             this.gbxListado.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.gbxListado.Name = "gbxListado";
@@ -293,6 +295,7 @@
             // 
             // txtParametro
             // 
+            this.txtParametro.ForeColor = System.Drawing.Color.Black;
             this.txtParametro.Location = new System.Drawing.Point(175, 48);
             this.txtParametro.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtParametro.Name = "txtParametro";
@@ -303,6 +306,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
+            this.label2.ForeColor = System.Drawing.Color.Black;
             this.label2.Location = new System.Drawing.Point(37, 54);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(105, 16);
@@ -315,6 +319,7 @@
             this.pnlAcciones.Controls.Add(this.btnEliminar);
             this.pnlAcciones.Controls.Add(this.btnEditar);
             this.pnlAcciones.Controls.Add(this.btnNuevo);
+            this.pnlAcciones.ForeColor = System.Drawing.Color.Black;
             this.pnlAcciones.Location = new System.Drawing.Point(32, 359);
             this.pnlAcciones.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.pnlAcciones.Name = "pnlAcciones";
@@ -379,6 +384,7 @@
             // 
             // btnBuscar
             // 
+            this.btnBuscar.ForeColor = System.Drawing.Color.Black;
             this.btnBuscar.Image = global::CpParcial2SAZ.Properties.Resources.search;
             this.btnBuscar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnBuscar.Location = new System.Drawing.Point(608, 28);
@@ -397,10 +403,11 @@
             // 
             // label1
             // 
-            this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
+            this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(32, 12);
+            this.label1.ForeColor = System.Drawing.Color.Black;
+            this.label1.Location = new System.Drawing.Point(48, -8);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(784, 34);
             this.label1.TabIndex = 7;
@@ -411,7 +418,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(847, 612);
             this.Controls.Add(this.btnBuscar);
             this.Controls.Add(this.gbxDatos);
@@ -420,8 +427,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pnlAcciones);
-            this.ForeColor = System.Drawing.Color.Black;
-            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.ForeColor = System.Drawing.Color.Transparent;
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "FrmPrograma";
             this.Text = "::: Programa :::";

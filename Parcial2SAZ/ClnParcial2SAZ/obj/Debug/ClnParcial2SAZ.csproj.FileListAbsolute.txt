@@ -13,3 +13,18 @@ G:\PROGRAMACION\SOLE LAB\Parcial2SAZ\Parcial2SAZ\ClnParcial2SAZ\obj\Debug\ClnPar
 G:\PROGRAMACION\SOLE LAB\Parcial2SAZ\Parcial2SAZ\ClnParcial2SAZ\obj\Debug\ClnParci.7DF5FB68.Up2Date
 G:\PROGRAMACION\SOLE LAB\Parcial2SAZ\Parcial2SAZ\ClnParcial2SAZ\obj\Debug\ClnParcial2SAZ.dll
 G:\PROGRAMACION\SOLE LAB\Parcial2SAZ\Parcial2SAZ\ClnParcial2SAZ\obj\Debug\ClnParcial2SAZ.pdb
+C:\Users\Hp\Desktop\Parcial2SAZ\Parcial2SAZ\ClnParcial2SAZ\bin\Debug\ClnParcial2SAZ.dll.config
+C:\Users\Hp\Desktop\Parcial2SAZ\Parcial2SAZ\ClnParcial2SAZ\bin\Debug\ClnParcial2SAZ.dll
+C:\Users\Hp\Desktop\Parcial2SAZ\Parcial2SAZ\ClnParcial2SAZ\bin\Debug\ClnParcial2SAZ.pdb
+C:\Users\Hp\Desktop\Parcial2SAZ\Parcial2SAZ\ClnParcial2SAZ\bin\Debug\CadParcial2SAZ.dll
+C:\Users\Hp\Desktop\Parcial2SAZ\Parcial2SAZ\ClnParcial2SAZ\bin\Debug\EntityFramework.dll
+C:\Users\Hp\Desktop\Parcial2SAZ\Parcial2SAZ\ClnParcial2SAZ\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hp\Desktop\Parcial2SAZ\Parcial2SAZ\ClnParcial2SAZ\bin\Debug\CadParcial2SAZ.pdb
+C:\Users\Hp\Desktop\Parcial2SAZ\Parcial2SAZ\ClnParcial2SAZ\bin\Debug\CadParcial2SAZ.dll.config
+C:\Users\Hp\Desktop\Parcial2SAZ\Parcial2SAZ\ClnParcial2SAZ\bin\Debug\EntityFramework.xml
+C:\Users\Hp\Desktop\Parcial2SAZ\Parcial2SAZ\ClnParcial2SAZ\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hp\Desktop\Parcial2SAZ\Parcial2SAZ\ClnParcial2SAZ\obj\Debug\ClnParcial2SAZ.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Parcial2SAZ\Parcial2SAZ\ClnParcial2SAZ\obj\Debug\ClnParcial2SAZ.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Parcial2SAZ\Parcial2SAZ\ClnParcial2SAZ\obj\Debug\ClnParci.7DF5FB68.Up2Date
+C:\Users\Hp\Desktop\Parcial2SAZ\Parcial2SAZ\ClnParcial2SAZ\obj\Debug\ClnParcial2SAZ.dll
+C:\Users\Hp\Desktop\Parcial2SAZ\Parcial2SAZ\ClnParcial2SAZ\obj\Debug\ClnParcial2SAZ.pdb

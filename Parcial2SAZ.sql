@@ -1,7 +1,4 @@
-﻿
-
-
-CREATE DATABASE Parcial2SAZ;
+﻿CREATE DATABASE Parcial2SAZ;
 GO
 
 CREATE LOGIN usrparcial2 
